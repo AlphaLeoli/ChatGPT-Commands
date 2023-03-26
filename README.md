@@ -1,8 +1,5 @@
-# ChatGPT Tiger Mode
+# ChatGPT Commands
 ___
-### Command for ChatGPT to make it provide you with an image for each prompt you give.
-ChatGPT will do it's best to provide you with text art and a google search image for each prompt you give. Please note that it is still buggy and that ChatGPT wasn't provided enough examples of text art, so it might look a little weird.
-
 ### Tiger Mode:
 Tiger mode is a Text Image Generater mode for ChatGPT and will provide you with a text image plus a google search image every time you send a prompt. You can use ChatGPT as normal, and it will do it's best to provide you with an image.
 
